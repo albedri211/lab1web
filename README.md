@@ -4,48 +4,49 @@
 # Bagian Tag
 - # input
 
-  ![Lab1()](//lab1web/input%201.png)
+ <img src="img/input 1.png">
 
 - # output 
 
-  ![Lab1(0)](//lab1web/output%201.png)
+  <img src="img/output 1.png">
 
 # Menambahkan Link Navigasi
 
 - # input
 
- ![Lab1(1)](//lab1web/input%202.png)
+<img src="img/input 2.png">
 
 - # output
 
- ![Lab1(1-2)](//lab1web/output%202.png)
+<img src="img/output 2.png">
 
 # Menambahkan Header & Paragraph
 
 - # input
 
-![Lab1(2)](//lab1web/input%203.png)
+<img src="img/input 3.png">
+
 - # output
 
-![Lab1(2-1)](//lab1web/output%203.png)
+<img src="img/output 3.png">
 
 # Menambahkan Image
 
 - # input
 
-![Lab1 2(3)](//lab1web/input%204.png)
+<img src="img/input 4.png">
 
 - # output
 
-![Lab1 1(3-1)](//lab1web/output%203.png)
+<img src="img/output 4.png">
 
   
   - # Berikut Tampilan Penuhnya
 
 - # input
 
-  ![Halaman1](//lab1web/input%205.png)
+ <img src="img/input 5.png">
 
 - # output
 
-  ![halaman2](//lab1web/output%205.png)
+  <img src="img/output 5.png">
